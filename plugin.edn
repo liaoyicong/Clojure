@@ -1,6 +1,6 @@
-{:name "Clojure"
- :version "0.0.12"
- :author "Kodowa"
- :source "https://github.com/LightTable/Clojure"
+{:name "Better Clojure"
+ :version "0.0.1"
+ :author "liaoyicong"
+ :source "https://github.com/liaoyicong/Clojure"
  :desc "Clojure integration for Light Table"
  :behaviors "clojure.behaviors"}
